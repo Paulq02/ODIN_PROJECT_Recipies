@@ -1,2 +1,2 @@
-# NEW_ODIN_PROJECT
+# ODIN_PROJECT_Recipies
 Upated Odin project after losing stuff
